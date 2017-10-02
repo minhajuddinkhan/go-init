@@ -1,9 +1,7 @@
-// hello world;
-
 package main
 
 import "fmt";
-
+ 
 func main() {
 
 	//var str string = "hello World";
@@ -60,8 +58,7 @@ func fizzBuzz(number int) string{
 }
 
 func fibonacci(number int) int {
-
-	var (
+	 var (
 		 i =  number
 		 result = 1
 	 );
